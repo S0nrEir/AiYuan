@@ -1,0 +1,23 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="tv_text_block">#ffffff</color>
+    <color name="green">#5fc323</color>
+    <color name="dark_green">#4D8C51</color>
+    <color name="micro_green">#c2eb84</color>
+    <color name="orange">#ef793b</color>
+    <color name="blue">#58b6f4</color>
+    <color name="dark_blue">#686eea</color>
+    <color name="gray">#aaa</color>
+    <color name="red">#DD6161</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="tv_xyxl_blue">#47BBC8</color>
+    <color name="trans_black">#55000000</color>
+    <color name="btn_xyxl_title">#009AAC</color>
+    <color name="ll_xyxl_panel_bg_color">#E9E7E8</color>
+    <color name="ll_dh_panel_bg_color">#E9E7E8</color>
+    <color name="ll_xyjc_panel_bg_color">#E9E7E8</color>
+    <color name="tv_xyjc_blue">#47BBC8</color>
+
+</resources>

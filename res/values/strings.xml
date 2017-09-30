@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">养老Test</string>
+    <string name="btnMain_CYTX">吃药提醒</string>
+    <string name="btnMain_DDBJ">跌倒报警</string>
+    <string name="title_activity_cytx">吃药提醒</string>
+    <string name="title_activity_ddbj">跌倒报警</string>
+    <string name="title_activity_web_demo">WebDemoActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

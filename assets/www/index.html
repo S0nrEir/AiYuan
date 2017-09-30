@@ -1,0 +1,22 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<title>WebViewDemo</title>
+<script language="javascript">
+function closeActivity(){
+window.gc.closeActivity();
+}
+function toast(data){
+window.gc.toast(data);
+}
+function jsMethod(data){
+document.write('<p></p>'+data);
+}
+</script>
+</head> 
+<body>
+<button onclick='closeActivity()'>Web JS调用JAVA关闭Activity</button><p></p>
+<button onclick='toast("123")'>Web JS调用JAVA Toast 123</button>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppBaseTheme" parent="android:Theme.Light"></style>
+
+    <style name="AppTheme" parent="AppBaseTheme"></style>
+
+    <style name="Theme.GC.AlertDialog" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+    </style>
+    <style name="btnMain">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:onClick">onClick</item>
+        <item name="android:padding">5dp</item>
+    </style>
+
+</resources>
